@@ -1,6 +1,4 @@
-- I am currently coding a discord token generator, and have coded a selfbot.
-- I’m currently learning Python.
-- To contact me etc go to https://e-z.bio/drakon
+- men
 
 <!---
 DrakonWarrior/DrakonWarrior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
